@@ -1,0 +1,6 @@
+# Ignore all mp3 files
+*.mp3
+
+# Allow other repository files
+# Add project-specific ignores below
+
